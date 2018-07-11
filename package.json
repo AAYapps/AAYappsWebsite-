@@ -1,0 +1,22 @@
+{
+  "name": "firstpolymerapp",
+  "version": "1.0.0",
+  "description": "My first polymerapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "projecttest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AAYapps/AAYappsWebsitePolymer-.git"
+  },
+  "keywords": [
+    "AAYapps"
+  ],
+  "author": "Joshua Vanderzee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AAYapps/AAYappsWebsitePolymer-/issues"
+  },
+  "homepage": "https://github.com/AAYapps/AAYappsWebsitePolymer-#readme"
+}
